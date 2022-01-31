@@ -1,0 +1,8 @@
+env.py
+secrets.txt
+
+__pycache__/
+.ipynb_checkpoints/
+
+# We can't push > 100MB files to GitHub
+*.csv
